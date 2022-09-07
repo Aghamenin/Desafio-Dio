@@ -7,6 +7,7 @@ crtl + l limpa a tela
 dc + pasta - pula para a pasta selecionada
 ls - lsita  as pasta
 git add . - adiciona o projeto no computador local
-git commit -m - adiciona o projeto no servidor do github
+git commit -m - adiciona um comentário para o github
+git push origin main - dar um push no servidor
 
 Esses são alguns exemplos
