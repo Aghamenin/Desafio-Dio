@@ -1,3 +1,12 @@
 Ao utillizar os comandos do git bash
 basta praticar para ter um maior conhecimento
 dos comandos 
+
+
+crtl + l limpa a tela
+dc + pasta - pula para a pasta selecionada
+ls - lsita  as pasta
+git add . - adiciona o projeto no computador local
+git commit -m - adiciona o projeto no servidor do github
+
+Esses são alguns exemplos
